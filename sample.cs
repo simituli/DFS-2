@@ -1,3 +1,7 @@
+// Time Complexity : O(m*n)
+// Space Complexity :O(Min(m,n))
+// Did this code successfully run on Leetcode : Yes
+// Any problem you faced while coding this : yes. Syntax errors and language c# is different than java
 public class Solution {
     public int NumIslands(char[][] grid) {
         int m = grid.Length;
